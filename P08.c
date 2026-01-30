@@ -1,8 +1,8 @@
-//WAP to input an alphanumeric string and print the sum of all digits present in the string
+//WAP to input an alphanumeric string and print the sum of all digits presentÂ inÂ theÂ string
 
 #include<stdio.h>
 #include<conio.h>
-main()
+main
 {
 	char str[100];
 	int i=0,sum=0;
@@ -16,3 +16,4 @@ main()
 	}
 	printf("Sum of digit is %d",sum);
 }
+
